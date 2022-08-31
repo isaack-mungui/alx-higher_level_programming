@@ -2,7 +2,7 @@
 from add_0 import add
 
 if __name__ == "__main__":
-    x = 1
-    y = 2
-    res = add(x, y)
+    a = 1
+    b = 2
+    res = add(a, b)
     print("{} + {} = {}".format(1, 2, res))
